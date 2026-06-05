@@ -1,0 +1,76 @@
+
+body {
+  background-image: url('https://www.japan-experience.com/sites/default/files/images/content_images/otagi-nembutsuji-4.jpg');
+  background-size: cover;
+} 
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px 20px;
+}
+h2 {
+  color: #333;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+}
+p {
+  color: #555;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 14px;
+}
+ul {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+form {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+head {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+h1 {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+}
+.Result {
+  display: flex;  
+  height: 700px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    position: fixed ;
+    right: 2%;
+    top: 15%;
+    flex-direction: column; /* Alinha os textos e a imagem em coluna */
+    overflow: hidden;       /* Garante que nada saia das bordas arredondadas */
+}
+
+.resultvalues {
+    /* Removido o width fixo de 400px para não somar com a margin e vazar */
+    margin: 1rem; 
+    flex-grow: 1;           /* Faz este bloco ocupar o espaço restante */
+    display: flex;
+    flex-direction: column;
+}
+
+.resultdescription {
+    color: #fff;
+}
+
+.resulttittle {
+    font-size: 1.2rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.resultimg {
+    width: 100%;
+    height: 100%;          /* MUDADO DE AUTO PARA 100%: essencial para o object-fit */
+    max-height: 150px;     /* Opcional: limita a altura para sobrar espaço para o texto */
+    border-radius: 10px;
+    object-fit: scale-down;     /* Mudado para cover para preencher o espaço sem distorcer */
+}

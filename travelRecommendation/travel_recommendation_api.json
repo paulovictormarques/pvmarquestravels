@@ -1,0 +1,81 @@
+{
+    "countries": [
+      {
+        "id": 1,
+        "name": "Canada",
+        "cities": [
+          {
+            "name": "Toronto, Canada",
+            "imageUrl": "https://media.gettyimages.com/id/500256497/pt/foto/toronto-ontario-canada.jpg?s=612x612&w=gi&k=20&c=psVaYDQPTIodc8GjuwyhVV3YhctJQM6zdiEK6p0o1c0=",
+            "description": "A major North American city known for its diverse culture and iconic skyline."
+          },
+          {
+            "name": "Montréal, Canada",
+            "imageUrl": "https://media.gettyimages.com/id/157506253/pt/foto/velha-montreal.jpg?s=612x612&w=gi&k=20&c=zyT4hsYQHSde7Gt9VmpwhrwOB3nR3ie4PUjj_YiT430=",
+            "description": "A beautiful city surrounded by mountains and water, known for its outdoor lifestyle and vibrant arts scene."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Japan",
+        "cities": [
+          {
+            "name": "Tokyo, Japan",
+            "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t51.82787-15/630142856_18070510787626898_7132353265875555230_n.jpg?stp=dst-jpegr_tt6&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=g8sho8Q9OmEQ7kNvwFvzufm&_nc_oc=AdqpbGHjoSlL7bZWx6G-0RdTZigzW77yJHe7ZFwuqbL10yFLjeXTxiquYPmQE8mCzDxfppewF0WQ-RE97RYKrxiX&_nc_zt=23&se=-1&_nc_ht=scontent.fmao1-1.fna&_nc_gid=UfyTSLUbfAzDDLu6z4U_iQ&_nc_ss=7b2a8&oh=00_Af_b9nVTgVnwngXI63kUtyhaSXPks_b8K1511Dg9C8Quhg&oe=6A28E359",
+            "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
+          },
+          {
+            "name": "Kyoto, Japan",
+            "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t51.82787-15/631464758_18070779062626898_6396839076417145560_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LHFNGSGk_iEQ7kNvwEivPhZ&_nc_oc=AdpmNP_81LIhC0Phay385_AAwkFYLvOTavhuIiY5eMss9zhCJnTWcK1QeFVjCrISJJVRw3BOrU0mi5dhThfxj8jj&_nc_zt=23&_nc_ht=scontent.fmao1-1.fna&_nc_gid=T3dCyDoBBhTecx0o7jPJJQ&_nc_ss=7b2a8&oh=00_Af8JgioXe_VA_cR7G6xlj3zkV0UFDok_Kh8KGqYBWuuGcw&oe=6A28D0B4",
+            "description": "Known for its historic temples, gardens, and traditional tea houses."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Brazil",
+        "cities": [
+          {
+            "name": "Rio de Janeiro, Brazil",
+            "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t39.30808-6/493539759_10062713977074245_8586871410830232147_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EK6oL6uYn0wQ7kNvwF15Ton&_nc_oc=Adq1DLJdGK_nSfnPbycdCZQLHrjFD1-wQzybJm66ZwT82Q4msAsMmx8NRV7JbL7_ReKUY2USX7xB_cZOaRQomsGa&_nc_zt=23&_nc_ht=scontent.fmao1-1.fna&_nc_gid=4Zdg-_YDL5plgfZuJRoQUQ&_nc_ss=7b2a8&oh=00_Af9ZSVW8Lok8pC7l1Q3ocCQAr5w7ZJEb-lbMRYArXiyxtg&oe=6A28CB35",
+            "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
+          },
+          {
+            "name": "São Paulo, Brazil",
+            "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t39.30808-6/514346868_24305894005663004_2754390116416960742_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=86c6b0&_nc_ohc=CKD4s9SzX0oQ7kNvwGc1mPe&_nc_oc=AdpsSRvp-z0mD8Ep3ar4AgZ01ONKMN1epDg5XBGzF4s_kshyrP-EMoorhZPr6ZPhNYaEz47glYKh8wO2nQQr_qYB&_nc_zt=23&_nc_ht=scontent.fmao1-1.fna&_nc_gid=oYsSthGnr94TrBzokjiN6A&_nc_ss=7b2a8&oh=00_Af_LCLpb1857haCQclCeC2KKZltTihpfAMKh6Eyyk0fKBw&oe=6A28C3F7",
+            "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
+          }
+        ]
+      }
+    ],
+    "temples": [
+      {
+        "id": 1,
+        "name": "Senso-ji, Japan",
+        "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t51.82787-15/631433227_18070510769626898_6559848537945646547_n.jpg?stp=dst-jpegr_tt6&_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ALDinkwaKs0Q7kNvwGui9mr&_nc_oc=AdotcP29AOrx05usLAOmsQGNfljO8rdU1BlUKkGMmCPDNID8vgglJTmJojX6gJcBTsFFwTKVxLv0VshZr3Ndubhh&_nc_zt=23&se=-1&_nc_ht=scontent.fmao1-1.fna&_nc_gid=XSzdAh6s5CCfx8BjIawbhQ&_nc_ss=7b2a8&oh=00_Af_KP3LcsxeaSrQru_Gp5gCSPoaj-WV5XRcWCtjazVQZ8g&oe=6A28E5FA",
+        "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+      },
+      {
+        "id": 2,
+        "name": "Otagi Nenbutsuji, Japan",
+        "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t51.82787-15/634366504_18070913597626898_2200597502893867602_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=6gpsCu6LN6oQ7kNvwEMOoi9&_nc_oc=Adp1ojtrOm_w5kp77KK-lK9HZxK19V5L8vPaZgxoO9FwoQ9b1rsUi2SLb1Av8TrofJYwXdlyeUxnxm6Wp88IF_2o&_nc_zt=23&_nc_ht=scontent.fmao1-1.fna&_nc_gid=Dnw3yJjKbf2MwWU9v9Ynxw&_nc_ss=7b2a8&oh=00_Af_8RweuOo9cud2ChX52jnSF9VE1a1UuSNMSk0U4OEi0DA&oe=6A28E985",
+        "description": "A historic temple known for its beautiful gardens and traditional architecture."
+      }
+    ],
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Bahia, Brazil",
+        "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t51.82787-15/562958875_18057079910626898_8374777702422965698_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_ohc=zmBepBhZuwcQ7kNvwF0ResJ&_nc_oc=AdomGIfFeRbkvzHJx6MVL2mvt41CJUTU1wIiNhD_oDFubMT8NjsoQJC5T-qWgaFmSzeV7I3z75Pqg-Y1obk049oc&_nc_zt=23&_nc_ht=scontent.fmao1-1.fna&_nc_gid=m5uqPykKhzzbZMX1ZA9qtg&_nc_ss=7b2a8&oh=00_Af-xI0K41OBNlqngJlAF9Huo_aCbW_Vl355Uyu7_jBN7GA&oe=6A28F067",
+        "description": "A coastal city known for its beautiful beaches and rich cultural heritage."
+      },
+      {
+        "id": 2,
+        "name": "Arraial do Cabo, Brazil",
+        "imageUrl": "https://scontent.fmao1-1.fna.fbcdn.net/v/t39.30808-6/488311089_9901701469842164_4360463341774349319_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=Jw-eJQLR3eUQ7kNvwHW1Oq6&_nc_oc=Adooi2nuhIsiVQCRzf58v0yYx4cT74MQUCWTqg817BwcNP6dm_gQbFcjBd4F5DtWZ2Hg-X88Gci3lX9_h4ZSPZ5q&_nc_zt=23&_nc_ht=scontent.fmao1-1.fna&_nc_gid=F9qrxcrVU1whscrD5hN-vw&_nc_ss=7b2a8&oh=00_Af_sxb9TwgZ27aaegCkMQruZ37AV082LVVs9H6SPZ0F8AA&oe=6A28DE85",
+        "description": "A picturesque beach town in Rio de Janeiro, Brazil, known for its pristine waters and relaxed atmosphere."
+      }
+    ]
+  }
+  
